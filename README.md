@@ -1,4 +1,4 @@
-# node-speak
+# node-speaknow
 
 A simple Node.js package for text-to-speech (TTS) using system voices (Windows/macOS).
 Supports **sequential speech** so multiple messages don’t overlap.
