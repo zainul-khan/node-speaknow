@@ -1,6 +1,6 @@
 {
   "name": "node-speaknow",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Simple text-to-speech wrapper for Node.js (Windows/macOS)",
   "main": "index.js",
   "types": "index.d.ts",
