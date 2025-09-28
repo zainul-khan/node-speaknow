@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/node-speaknow"
+    "url": "https://github.com/zainul-khan/node-speaknow"
   },
   "os": ["win32", "darwin"]
 }
